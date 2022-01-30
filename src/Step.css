@@ -1,0 +1,8 @@
+.step {
+    color: blue;
+}
+
+.step input {
+    width: 30px;
+    margin-left: 5px;
+}
